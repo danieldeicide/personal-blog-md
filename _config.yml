@@ -1,0 +1,2 @@
+baseurl: personal-blog-md/
+exclude: ['README.md','_site']
